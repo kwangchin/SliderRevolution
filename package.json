@@ -1,0 +1,19 @@
+{
+  "name": "slider-revolution",
+  "version": "5.0",
+  "description": "Slider Revolution Responsive Jquery",
+  "main": "src/js/jquery.themepunch.tools.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwangchin/SliderRevolution.git"
+  },
+  "author": "https://github.com/Olaw2jr/SliderRevolution",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Olaw2jr/SliderRevolution/issues"
+  },
+  "homepage": "https://github.com/Olaw2jr/SliderRevolution#readme"
+}
